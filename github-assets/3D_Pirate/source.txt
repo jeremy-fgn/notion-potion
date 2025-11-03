@@ -1,0 +1,106 @@
+https://polyhaven.com/a/wooden_barrels_01
+Author:
+James Ray Cock
+CC0
+License
+
+4.4m
+wide
+
+20.9
+px/cm
+
+33K
+tris
+
+Downloads:
+12106
+
+
+https://polyhaven.com/a/dutch_ship_medium
+James Ray Cock
+Model, Textures, Cleanup
+
+Nicolò Zubbini
+Original Model
+
+Rico Cilliers
+Sails Model, Textures
+CC0
+License
+
+24.7m
+tall
+
+18.3
+px/cm
+
+69K
+tris
+
+Downloads:
+12024
+
+
+https://polyhaven.com/a/cannon_01
+Authors:
+
+James Ray Cock
+Modeling & Texturing
+
+Yann Kervran
+Rigging
+CC0
+License
+
+2.3m
+wide
+
+23.3
+px/cm
+
+41K
+tris
+
+Downloads:
+29122
+
+
+
+https://polyhaven.com/a/wooden_bucket_02
+Author:
+
+James Ray Cock
+CC0
+License
+
+0.6m
+wide
+
+43.6
+px/cm
+
+7K
+tris
+
+Downloads:
+15129
+
+https://polyhaven.com/a/wooden_crate_01
+Author:
+
+James Ray Cock
+CC0
+License
+
+0.8m
+wide
+
+45.8
+px/cm
+
+7K
+tris
+
+Downloads:
+23119

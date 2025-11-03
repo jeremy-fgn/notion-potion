@@ -1,0 +1,47 @@
+Smithsonian Institution
+______________________
+3D scene content information:
+
+	title: Triceratops horridus Marsh, 1889
+	Record maintained by: NMNH - Paleobiology Dept.
+	Record ID: nmnhpaleobiology_3572783
+
+3D Scene ID:3d_package:d8c623be-4ebc-11ea-b77f-2e728ce88125
+______________________
+File Usage:
+
+CC0
+This media file is in the public domain (free of copyright restrictions). You can copy, modify, and distribute this work without contacting the Smithsonian. For more information and to review the 3D disclaimer, visit the Smithsonian’s Terms of Use page. (https://www.si.edu/Termsofuse)
+
+
+______________________
+3D scene content details:
+
+Title: Triceratops horridus Marsh, 1889
+Smithsonian Record ID: edanmdm:nmnhpaleobiology_3572783
+
+______________________
+
+https://3d.si.edu/object/3d/triceratops-horridus-marsh-1889%3Ad8c623be-4ebc-11ea-b77f-2e728ce88125
+
+Record Last Modified
+3 Aug 2024
+Skeletal Morphology
+Skeleton. Complete Skeleton. Mounted; Updated
+See more items in
+Paleogeneral
+Reptiles/Amphibians
+Reptilia Dinosauria Ceratopsia
+Paleobiology
+Published Name
+Triceratops horridus Marsh, 1889
+Data Source
+NMNH - Paleobiology Dept.
+USNM Number
+PAL500000
+Taxonomy
+Animalia Chordata Vertebrata Sauropsida Reptilia Archosauria Dinosauria Ornithischia Ceratopsia Ceratopsidae
+Record ID
+nmnhpaleobiology_3572783
+Metadata Usage
+CC0

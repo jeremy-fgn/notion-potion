@@ -1,0 +1,115 @@
+https://duckhive.itch.io/squirrel
+
+https://duckhive.itch.io/bunny
+
+https://duckhive.itch.io/cow
+
+https://duckhive.itch.io/super-clown-bro
+
+
+He's a simple character and includes the following animations:
+
+Idle
+Run
+CC0 license. He can be used however you want for your projects, whether personally, educationally, or commercially. No credit needed. 
+
+Thanks for reading.  Check out my other characters if you like this and please consider following me to support me further.
+
+More information
+Status	Released
+Category	Assets
+Author	Duckhive
+
+Introducing Bunny! (I like to call him "Hip Hop")
+
+Hip Hop is a 16-bit animated character on 64x64 sprites in case you want to add anything extra like particles, etc...
+
+Hip Hop is a simple character and includes the following animations:
+
+Idle
+Walk
+Turn
+CC0 license. Hip Hop can be used however you want for your projects, whether personally, educationally, or commercially. No credit needed. 
+
+
+Here, take this cow and drop a follow.
+
+It ain't much, but it's honest.
+
+Simple character that includes the following animations:
+
+Idle
+Walk/Run
+CC0 license. Can be used however you want for your projects, whether personally, educationally, or commercially. No credit needed. 
+
+
+
+Meet Warnold! Yea he's a clown, but he's pretty chill.
+
+He's an animated 16x16 character on 64x64 sprites in case you want to add anything extra like particles, etc.
+
+He's got some essential platformer animations, including:
+
+Idle
+Walk/Run
+Jump
+Crouch
+Stop/Turn
+Hurt
+Swim_Idle
+Swimming
+CC0 license. Warnold can be used however you want for your projects, whether personally, educationally, or commercially. No credit needed.
+
+
+
+https://duckhive.itch.io/nutty-the-squirrel-16-bit-animated-2d-game-ready-character
+Duckhive
+Nutty! The squirrel/cat/whatever!
+
+There are 3 files you can download.  One is a zip file with just the spritesheets and gifs (FREE).
+
+276 days ago
+just fyi about the license - no credit needed. Do with nutty as you will
+
+
+
+
+
+
+
+
+https://duckhive.itch.io/petey-panda
+
+Current animations include:
+
+Idle
+Throw
+Blink
+Right Left Combo
+Roll
+Walk
+Jump
+Fall
+Land
+Left Jab
+Run
+Right Hook
+Hit
+Death
+Also included is a working controller to get you up and running in no time! Controller encompasses the following animations:
+
+Idle
+Walk
+Run
+Jump
+Land
+Code for the controller is extremely clean and easy to adjust. It is component-based and driven by a state machine.
+
+All now completely FREE and no need to credit.
+
+
+
+
+https://duckhive.itch.io/froggo
+Froggo can be used however you want for your projects, whether personally, educationally, or commercially.  No credit needed.
+https://duckhive.itch.io/

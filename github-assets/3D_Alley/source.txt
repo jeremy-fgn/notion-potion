@@ -1,0 +1,30 @@
+https://blog.polyhaven.com/hidden-alley/
+Theme
+What is the Hidden Alley?
+Tucked between towering buildings, hiding in plain sight, lies a dark and narrow alleyway. It’s easily missed by the hurried crowds and noisy traffic that rushes on by. The ground is littered with discarded items and debris. However, despite its unkempt appearance, it has a certain charm that attracts those brave enough to explore its depths.
+
+Whatever might fit a scene like this, we’ll find a place for it.
+
+
+Reference
+Create as many assets as you like, however only your top 3 will be eligible for prizes. Just remember that quality matters more than quantity.
+
+There are a few requirements to assets we can accept:
+
+They have to be your own original creation.
+They have to be able to be published as CC0 (more on this further down).
+They have to be consistent with the standards and quality of the models currently on the site.
+
+Don’t use any resources that would mean your prop could not be published as CC0 (more info below).
+Rules
+It is of utmost importance that your assets can legally be published as CC0. This means submissions that include any copyrighted content of any kind will be rejected. See more in the FAQ below.
+
+All entries must be original works.
+In order to help us verify your work we will need you to provide a list of all the sources or information regarding any resources you had used that you did not make yourself. This includes which texture resources you used on your 3D model.
+We encourage you to favor quality over quantity, though there is no limit to how many assets you can submit. Each prop should be a separate submission.
+Any software can be used as long as the work that is produced allows it to be released as CC0.
+Use only custom original textures painted specifically for your asset, or textures that are already CC0/public domain compatible. There is a list of resources like this on the Trello board.
+This means content from popular sites like textures.com or Poliigon cannot be used.
+Working with built-in tools and procedural textures (e.g. in Substance) is fine, as long as they are baked to the UVs of your model and not shared on their own.
+If in doubt, read the terms of use or license agreement of the resource you’re using, or ask on our Discord.
+You will be required to share a list of links to the resources you used so we can validate this.
