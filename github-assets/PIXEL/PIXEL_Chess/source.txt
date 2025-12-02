@@ -1,0 +1,28 @@
+https://bz-game.itch.io/pixel-art-chess-set
+
+Info
+A sprite pack for a chess set that  includes: 
+
+5 chess board colour variations 
+4  colour chess piece variants. 
+Animation for chess piece when selected PNG file
+Static chess Pieces PNG file [Not in zip File]
+
+
+
+
+
+
+
+
+Chess Asset 16bit pixel art © 2023 by Graciano Choc is marked with CC0 1.0 Universal 
+
+More information
+Status	Released
+Category	Assets
+Rating	
+Rated 5.0 out of 5 stars
+(1total ratings)
+Author	gchoc
+Tags	Board Game, Chess, Pixel Art, Royalty Free, Sprites, Turn-based Strategy
+Asset license	Creative Commons Zero v1.0 Universal
