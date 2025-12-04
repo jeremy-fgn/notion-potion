@@ -1,0 +1,68 @@
+raw_map_data = [
+    # Row 1: Open forest floor with a rocky/pine cluster and a solitary tree
+    16 * [BG] + [FLOWER] + [BG] + [ROCK] + [PINE] + 3 * [BG] + [ROCK] + [BG] + [PINE] + 3 * [BG] + [TREE] + [PINE],
+
+    # Row 2: Dense forest line with rocks, trees, and a flower
+    14 * [BG] + [ROCK] + 5 * [BG] + [TREE] + [FLOWER] + 3 * [BG] + [TREE] + [BG] + [ROCK] + [PINE] + 3 * [ROCK] + [BG] + [PINE],
+
+    # Row 3: Rocky patch transitioning into an area with trees and scattered flowers
+    15 * [BG] + [ROCK] + [BG] + [TREE] + [BG] + [ROCK] + 2 * [BG] + [FLOWER] + 2 * [BG] + [FLOWER] + 2 * [BG] + [ROCK] + [PINE] + 4 * [BG] + [ROCK],
+
+    # Row 4: Top perimeter of the building, with a skeleton and rocks outside
+    11 * [BG] + [ROCK] + [SKEL] + [ROCK] + 3 * [BG] + [TREE] + 2 * [BG] + [TLWALL] + 8 * [MWALL] + [TRWALL] + 3 * [MWALL] + [TRWALL],
+
+    # Row 5: Building's right side wall, with a chest inside
+    21 * [BG] + 8 * [BG] + [RWALL] + [BG] + [CHEST] + [BG] + [RWALL],
+
+    # Row 6: Building's lower right side wall, with a snake, potion, and a troll outside
+    20 * [BG] + [LWALL] + 6 * [BG] + [SNAKE] + [POTION] + [RWALL] + [BG] + [TROLL] + [BG] + [RWALL],
+
+    # Row 7: Building's base and a bottom wall structure with a locked door
+    20 * [BG] + 4 * [MWALL] + [LOCKED] + 4 * [MWALL] + [RWALL] + [MWALL] + [DOOR] + [MWALL] + [RWALL],
+
+    3 * [BG] + 5 * [GRASS] + 5 * [BG] + 15 * [WATER] + 5 * [GRASS] + 5 * [BG], # Total: 33 items, pads to 42
+
+    3 * [FLOWER] + 7 * [GRASS] + 18 * [WATER] + 5 * [GRASS], # Total: 33 items, pads to 42
+
+    3 * [FLOWER] + 4 * [GRASS] + 20 * [WATER] + [TROLL] + 5 * [GRASS], # Total: 33 items, pads to 42
+
+    2 * [TREE] + 5 * [GRASS] + 17 * [WATER] + [BG] + 5 * [GRASS], # Total: 30 items, pads to 42
+
+    10 * [GRASS] + [BG] + [TROLL] + 2 * [BG] + [FIRE] + 2 * [BG] + [TROLL] + [BG] + 5 * [ROCK] + 5 * [BG], # Total: 30 items, pads to 42
+
+    8 * [GRASS] + 5 * [ROCK] + 5 * [BG] + [TROLL] + 2 * [BG] + [FIRE] + 2 * [BG] + [TROLL] + 5 * [BG], # Total: 30 items, pads to 42
+
+    15 * [GRASS] + 5 * [BG] + 5 * [TREE] + 5 * [BG], # Total: 30 items, pads to 42
+
+    20 * [GRASS] + [ARROW] + 5 * [TREE] + 5 * [BG], # Total: 31 items, pads to 42
+
+    5 * [TREE] + 10 * [GRASS] + 5 * [TREE] + 5 * [GRASS] + 5 * [BG], # Total: 30 items, pads to 42
+
+    3 * [PINE] + 5 * [TREE] + 5 * [PINE] + 5 * [GRASS] + 5 * [BG], # Total: 23 items, pads to 42
+
+    15 * [BG] + [ROCK] + 5 * [BG] + [ROCK] + 10 * [BG] + [MONK], # Total: 37 items, pads to 42
+
+    2 * [BG] + 10 * [ROCK] + 5 * [BG] + 5 * [ROCK] + 15 * [BG], # Total: 37 items, pads to 42
+
+    4 * [BG] + 5 * [ROCK] + 5 * [BG] + 5 * [TREE] + 5 * [BG] + 5 * [ROCK] + 10 * [BG], # Total: 39 items, pads to 42
+
+    2 * [TREE] + 5 * [PINE] + 5 * [BG] + 10 * [GRASS] + 5 * [BG] + 5 * [TREE] + 5 * [BG], # Total: 37 items, pads to 42
+
+    3 * [TREE] + 10 * [GRASS] + 5 * [WATER] + 10 * [GRASS] + 5 * [TREE], # Total: 33 items, pads to 42
+
+    5 * [GRASS] + 10 * [WATER] + 5 * [GRASS] + 10 * [WATER] + 5 * [GRASS], # Total: 35 items, pads to 42
+
+    10 * [WATER] + 5 * [GRASS] + 5 * [WATER] + 5 * [GRASS] + 5 * [WATER] + 5 * [GRASS], # Total: 35 items, pads to 42
+
+    5 * [BG] + 5 * [ROCK] + 20 * [GRASS] + 5 * [ROCK] + 5 * [BG], # Total: 40 items, pads to 42
+
+    15 * [BG] + [FLOWER] + 5 * [BG] + [FLOWER] + 15 * [BG], # Total: 37 items, pads to 42
+
+    10 * [BG] + 5 * [TREE] + 10 * [BG] + 5 * [PINE] + 5 * [BG], # Total: 35 items, pads to 42
+
+    1 * [BG],
+    1 * [BG],
+    1 * [BG],
+    1 * [BG]
+
+]
